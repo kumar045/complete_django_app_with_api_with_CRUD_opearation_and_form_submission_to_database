@@ -1,2 +1,1 @@
 # complete_django_app_with_api_with_CRUD_opearation_and_form_submission_to_database
-# completedjangoappwithapiandformsubmissiontodb
